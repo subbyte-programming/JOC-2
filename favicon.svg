@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<rect width="100" height="100" rx="18" fill="#f4f1ea"/>
+	<g fill="none" stroke="#24372f" stroke-width="4" stroke-linejoin="round">
+		<path d="M18 68V27l32-17 32 17v41M28 68V33l22-12 22 12v35"/>
+		<path d="M40 68V47h20v21M18 68h64M50 47v21"/>
+		<path d="m18 27 32 18 32-18" stroke="#b9795f"/>
+	</g>
+	<text x="50" y="91" text-anchor="middle" fill="#24372f" font-family="Georgia,serif" font-size="17" font-weight="700" letter-spacing="4">JOC</text>
+</svg>

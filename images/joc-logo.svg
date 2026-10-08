@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 84" role="img" aria-labelledby="title">
+	<title id="title">JOC Architectural Photography</title>
+	<g fill="none" stroke="#24372f" stroke-width="2.5" stroke-linejoin="round">
+		<path d="M7 72V24l29-16 30 16v48M16 72V30l20-11 21 11v42"/>
+		<path d="M26 72V45h20v27M7 72h59M36 45v27"/>
+		<path d="M7 24 36 40l30-16" stroke="#b9795f"/>
+		<path d="M36 8v11" stroke="#b9795f"/>
+	</g>
+	<text x="87" y="53" fill="#24372f" font-family="Georgia,serif" font-size="47" font-weight="700" letter-spacing="8">JOC</text>
+	<path d="M91 62h229" stroke="#b9795f" stroke-width="1.5"/>
+	<text x="91" y="76" fill="#536257" font-family="Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="2.15">ARCHITECTURAL PHOTOGRAPHY</text>
+</svg>
